@@ -1,0 +1,8 @@
+jupyter
+matplotlib
+numpy
+pyquaternion
+pytest
+python-fcl
+scipy
+vpython
