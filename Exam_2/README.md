@@ -1,4 +1,3 @@
-@"
 # Exam 2
 
 This folder contains the solution and visualization results for Exam 2.
@@ -21,4 +20,3 @@ This folder contains the solution and visualization results for Exam 2.
 ## Animated preview
 
 ![Animated preview](preview.gif)
-"@ | Set-Content .\Exam_2\README.md
