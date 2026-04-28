@@ -1,0 +1,17 @@
+cvxpy
+ipython
+ipywidgets
+jupyter
+matplotlib
+mediapy
+numpy
+opencv-python
+PyMuPDF
+pyrender
+pytorch-kinematics
+pytest
+scipy
+sympy
+torch
+trimesh
+lerobot[feetech]
